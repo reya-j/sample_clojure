@@ -13,3 +13,4 @@ before_script:
 script:
   - cd sample
   - lein test2junit
+archive: true
