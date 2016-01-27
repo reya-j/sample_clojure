@@ -11,6 +11,6 @@ before_script:
 
 # Running the test with Leiningen
 script:
-  - cd sample
+  - cd sample 
   - lein test2junit
 archive: true
